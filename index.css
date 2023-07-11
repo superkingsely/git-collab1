@@ -11,6 +11,7 @@
 .navbar{
     min-height: 90vh;
     background-color: aqua;
+    text-align: center;
 }
 main{
 
