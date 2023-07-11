@@ -9,5 +9,13 @@
     background-color: rgb(177, 177, 177);
 }
 .navbar{
+    min-height: 90vh;
     background-color: aqua;
+}
+main{
+
+}
+footer{
+    min-height: 10vh;
+    text-align: center;
 }
